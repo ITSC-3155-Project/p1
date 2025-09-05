@@ -26,23 +26,23 @@ body {
 }
 
 .box-a {
-    background-color: #dfe1e7;
+    background-color: #eeeff2;
 }
 
 .box-b {
-    background-color: #eeeff2;
+    background-color: #dfe1e7;
 }
 
 .box-c {
-    background-color: #dfe1e7;
-}
-
-.box-d {
     background-color: #eeeff2;
 }
 
-.box-e {
+.box-d {
     background-color: #dfe1e7;
+}
+
+.box-e {
+    background-color: #eeeff2;
 }
 
 .box-f {
